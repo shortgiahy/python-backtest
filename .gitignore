@@ -1,0 +1,30 @@
+# Data files (too large / private — don't commit)
+*.csv
+*.zip
+*.dbn
+*.dbn.zst
+databento_raw/
+
+# Generated outputs
+results/
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
